@@ -23,10 +23,19 @@
 - 군집 분석(Clustering)을 통한 관광지 유형 분류  
 - 분석 결과 기반 **새로운 관광 벨트 제안**  
 
+## 클러스터링 결과
+<img width="1341" height="724" alt="image" src="https://github.com/user-attachments/assets/0652d351-e4e3-4f60-a690-50fe9530cb4a" />
+<img width="1400" height="712" alt="image" src="https://github.com/user-attachments/assets/1711e0f0-69d0-448e-ad9b-99d59e25ed46" />
+
+
 ## 성과 / 배운 점  
 - 데이터 기반의 **계절 맞춤형 관광 전략** 제시  
 - 특정 관광지의 **비수기 보완 효과** 시뮬레이션  
 - 데이터 분석을 통한 **정책 제안 프로세스 경험**  
 - 지역 특성과 계절성을 고려한 **관광 수요 예측의 중요성 학습**  
+
+## 참고 자료
+[경상남도 공모전.pdf](https://github.com/user-attachments/files/22234876/default.pdf)
+
 
 ---
