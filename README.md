@@ -35,7 +35,8 @@
 - 지역 특성과 계절성을 고려한 **관광 수요 예측의 중요성 학습**  
 
 ## 참고 자료
-[경상남도 공모전.pdf](https://github.com/user-attachments/files/22234876/default.pdf)
+[경상남도 공모전.pdf](https://github.com/user-attachments/files/22235298/_011005_.pdf)
+
 
 
 ---
