@@ -13,7 +13,7 @@
 경상남도 주요 관광지를 대상으로 **계절별 관광객 유형 변화 분석**을 수행하고, 이를 바탕으로 **추가적인 관광 벨트 제안**을 통해 지역 경제 활성화 방안을 도출  
 
 ## 기술 스택  
-- Python: `pandas`, `numpy`, `matplotlib`  
+- Python: `pandas`, `numpy`, `matplotlib`, `KoNLPy`
 - Clustering (군집 분석)  
 
 ## 수행 작업  
